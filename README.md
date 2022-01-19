@@ -1,1 +1,1 @@
-# sampleProject
+# welcome to the sample project
